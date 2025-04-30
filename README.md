@@ -29,3 +29,6 @@ The app calculates compound interest growth monthly based on user-defined inputs
 
 ## 🏁 Conclusion  
 This project demonstrates the value of long-term investing and how simple inputs can be transformed into actionable insights through data visualization. It’s a practical tool for anyone interested in understanding personal finance, and a great example of combining Python with data visualization for real-world applications.
+
+![Picture for given values](images/Investment_growth_calculator.png)
+*Graph for given values.*
